@@ -1,34 +1,36 @@
-### 🌟 소개
+## 🌟 소개
 <p>저는 쑥쑥 성장하고 싶은 주니어 개발자입니다</p>
 <p>현재 스프링 부트를 공부하며 다양한 프로젝트를 진행하고 있습니다.</p>
 <p>JPA와 Mybatis, MSA, 그리고 RestTemplate을 를 공부하고 있습니다.</p>
 
 
-### 🛠 기술 스택
-
-##### languages
+## 🛠 기술 스택
+#### 🖥️ 언어
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-##### database
+#### 🗄️ 데이터베이스
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-##### framework
+#### 🌐 프레임워크
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-F80000?style=for-the-badge&logo=mybatis&logoColor=white)
 ![jpa](https://img.shields.io/badge/jpa-4479A1?style=for-the-badge&logo=jpa&logoColor=white)
 
-
-##### web
+#### 🌍 웹 기술
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-### 💻 주요 프로젝트
+
+
+
+## 💻 주요 프로젝트
 
 
 <table>
@@ -63,7 +65,7 @@
 
 
 
-#### 📫 연락처
+## 📫 연락처
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olrrrrrr@naver.com)
 
