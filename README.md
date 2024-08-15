@@ -30,17 +30,34 @@
 
 ### 💻 주요 프로젝트
 
-[![GitHub](https://img.shields.io/badge/DevHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minjjings/devhub)
 
-DevHub - 개발자들이 모여 성장하는 공간! 프로젝트 튜터와 팀원 매칭 서비스!
+##### DevHub 자료 Qr & 깃허브
+
+<img src="https://github.com/user-attachments/assets/b2fc1bac-6ed2-4600-bfee-24ed8346d7cb" alt="devhub" width="100"/>
+
+[![GitHub](https://img.shields.io/badge/DevHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minjjings/devhub) 
+
+##### Erp 자료 Qr & 깃허브
+
+<img src="https://github.com/user-attachments/assets/32969c71-da44-46e1-a639-ce6753140cd9" alt="erp2" width="100"/>
 
 [![GitHub](https://img.shields.io/badge/ERP-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minjjings/ErpProjec)
 
 
-Erp - 물류 ERP 
+
+
+
+
+
+
+
 
 #### 📫 연락처
-- **이메일**: olrrrrrr@naver.com
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olrrrrrr@naver.com)
+
+
+
 
 ---
 
