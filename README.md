@@ -1,5 +1,5 @@
 ### 🌟 소개
-<p>저는 쑥쑥 성장하고 싶은 주니어 개발자입니다.</p>
+<p>저는 쑥쑥 성장하고 싶은 주니어 개발자입니다</p>
 <p>현재 스프링 부트를 공부하며 다양한 프로젝트를 진행하고 있습니다.</p>
 <p>JPA와 Mybatis, MSA, 그리고 RestTemplate을 를 공부하고 있습니다.</p>
 
@@ -31,21 +31,32 @@
 ### 💻 주요 프로젝트
 
 
-##### DevHub 자료 Qr & 깃허브
-
-<img src="https://github.com/user-attachments/assets/b2fc1bac-6ed2-4600-bfee-24ed8346d7cb" alt="devhub" width="100"/>
-
-[![GitHub](https://img.shields.io/badge/DevHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minjjings/devhub) 
-
-##### Erp 자료 Qr & 깃허브
-
-<img src="https://github.com/user-attachments/assets/32969c71-da44-46e1-a639-ce6753140cd9" alt="erp2" width="100"/>
-
-[![GitHub](https://img.shields.io/badge/ERP-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minjjings/ErpProjec)
-
-
-
-
+<table>
+  <tr>
+    <th>데브허브 자료</th>
+    <th>ERP 자료</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/b2fc1bac-6ed2-4600-bfee-24ed8346d7cb" alt="devhub" width="100"/>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/32969c71-da44-46e1-a639-ce6753140cd9" alt="erp2" width="100"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/minjjings/devhub">
+        <img src="https://img.shields.io/badge/DevHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/minjjings/ErpProjec">
+        <img src="https://img.shields.io/badge/ERP-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
