@@ -1,74 +1,45 @@
-## 🌟 소개
-<p>저는 쑥쑥 성장하고 싶은 주니어 개발자입니다</p>
-<p>현재 스프링 부트를 공부하며 다양한 프로젝트를 진행하고 있습니다.</p>
-<p>JPA와 Mybatis, MSA, 그리고 RestTemplate을 를 공부하고 있습니다.</p>
+### Hi! Nice to Meet You.  🙌
 
+#### 📝 노민경은?
 
-## 🛠 기술 스택
-#### 🖥️ 언어
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+- 🚀 도전을 즐깁니다! 
+- 👩‍🏫 중국어 강사로 일한 경험이 있습니다!
+- 🎯 현재는 개발자가 되기 위한 도전을 하고 있습니다!
+- 👥 더 나은 결과물을 위해 고민하고 소통하는 개발자가 되고 싶습니다!
 
+#### 🌟 졸업
+- 이화여자대학교 / 외국어특수대학원 국제중국어교육학과 
+- 대련외국어대학교 / 대외한어과 경제무역학과
 
-#### 🗄️ 데이터베이스
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+#### 🌟 교육
+- 중앙교육 인재원 / 프로젝트 기반 자바 응용 SW 개발자 취업 과정  
+- 내일배움캠프 KDT 심화 / Spring 심화 과정
+ 
+#### 💻 projects
 
-#### 🌐 프레임워크
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-F80000?style=for-the-badge&logo=mybatis&logoColor=white)
-![jpa](https://img.shields.io/badge/jpa-4479A1?style=for-the-badge&logo=jpa&logoColor=white)
+##### [🔗](https://github.com/minjjings/e-commerce.git) 이미지 업로드 SaaS 
+- 이미지 업로드를 효율적으로 처리하는 모듈
+- 기술 스택: Java, Spring Boot, Redis, Kafka, PostgreSQL, MinIO  
 
-#### 🌍 웹 기술
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+##### [🔗](https://github.com/MSA-Logistics-service/backend.git) MSA 기반 물류 관리 및 배송 플랫폼  
+  - 물류 관리 및 배송 시스템 
+  - 기술 스택: Java, Spring Boot, JPA, PostgreSQL, Naver API, Redis, Docker
 
+##### [🔗](https://github.com/Business-AI-24/Server.git) 주문 관리 플랫폼   
+  - 주문 관리 플랫폼 
+  - 기술 스택: Java, Spring Boot, JPA, Redis, Docker, Gemini API 
 
+##### [🔗](https://github.com/minjjings/ErpProjec.git) 주문 & 재고 관리 시스템  
+  - 주문 재고 관리 시스템 
+  - 기술 스택: Java, Spring Boot, MyBatis, Oracle, Thymeleaf, HTML, CSS, JavaScript
 
+##### [🔗](https://github.com/minjjings/devhub.git) 멘토 매칭 플랫폼   
+  - 프로젝트 및 멘토 매칭 플랫폼 
+  - 기술 스택: Java, Spring Boot, MyBatis, Oracle, JSP, HTML, CSS, JavaScript
 
-
-## 💻 주요 프로젝트
-
-
-<table>
-  <tr>
-    <th>데브허브 자료</th>
-    <th>ERP 자료</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/b2fc1bac-6ed2-4600-bfee-24ed8346d7cb" alt="devhub" width="100"/>
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/32969c71-da44-46e1-a639-ce6753140cd9" alt="erp2" width="100"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/minjjings/devhub">
-        <img src="https://img.shields.io/badge/DevHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/minjjings/ErpProjec">
-        <img src="https://img.shields.io/badge/ERP-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-## 📫 연락처
+#### 📫 연락처
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olrrrrrr@naver.com)
-
-
-
 
 ---
 
