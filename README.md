@@ -18,7 +18,7 @@
 #### 💻 projects
 
 ##### [🔗](https://github.com/minjjings/e-commerce.git) 이미지 업로드 SaaS 
-- 이미지 업로드를 효율적으로 처리하는 모듈
+- Redis를 활용하여 이미지 업로드를 효율적으로 처리하는 모듈
 - 기술 스택: Java, Spring Boot, Redis, Kafka, PostgreSQL, MinIO  
 
 ##### [🔗](https://github.com/MSA-Logistics-service/backend.git) MSA 기반 물류 관리 및 배송 플랫폼  
