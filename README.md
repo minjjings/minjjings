@@ -17,7 +17,7 @@
  
 #### 💻 projects
 
-##### [🔗](https://github.com/minjjings/e-commerce.git) 이미지 업로드 SaaS 
+##### [🔗](https://github.com/minjjings/ImageXpress) 이미지 업로드 SaaS 
 - Redis를 활용하여 이미지 업로드를 효율적으로 처리하는 모듈
 - 기술 스택: Java, Spring Boot, Redis, Kafka, PostgreSQL, MinIO  
 
