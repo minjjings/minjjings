@@ -6,10 +6,10 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minjjings)
-[![Tech Blog](https://img.shields.io/badge/Tech_Blog-EB4747?style=for-the-badge&logo=tistory&logoColor=white)](https://editor0124.tistory.com/)
-[![Project](https://img.shields.io/badge/Receipt_Service-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://receipt-front.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:banggujoong@gmail.com)
+<a href="https://github.com/minjjings" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://editor0124.tistory.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Tech_Blog-EB4747?style=for-the-badge&logo=tistory&logoColor=white"></a>
+<a href="https://receipt-front.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Receipt_Service-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="mailto:banggujoong@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
 
