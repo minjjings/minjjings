@@ -1,4 +1,4 @@
-<a href="https://editor0124.tistory.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Tech_Blog-EB4747?style=for-the-badge&logo=tistory&logoColor=white"></a>
+<a href="https://minjings-log.tistory.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Tech_Blog-EB4747?style=for-the-badge&logo=tistory&logoColor=white"></a>
 <a href="https://receipt-front.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Receipt_Service-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="mailto:banggujoong@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
