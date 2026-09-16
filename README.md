@@ -55,7 +55,6 @@
 * **기술 스택**: Java, Spring Boot, Spring Data JPA, Gemini, Google Vision API, PostgreSQL, Redis, MinIO, Docker
 * **서비스 링크 & 레포지토리**:
   * **Live Demo (Service Site)**: [https://receipt-front.vercel.app/](https://receipt-front.vercel.app/)
-  * **GitHub Repository**: [github.com/minjjings/receipt-front](https://github.com/minjjings/receipt-front)
 
 * **주요 트러블슈팅 및 성과**:
   * **대용량 PDF 문서 토큰 한계 및 문맥 단절 극복**: 4,000자 Chunking + 200자 Overlap 기반의 슬라이딩 윈도우 파이프라인을 구축하여 대용량 규정 문서의 데이터 누락 0% 달성.
