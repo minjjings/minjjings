@@ -35,7 +35,7 @@
 
 ## <span style="color: #6f42c1;"> Major Projects</span>
 
-### 01. 데이터 수집 및 고가용성 서빙 파이프라인
+### 01. 데이터 수집 파이프라인
 * **기술 스택**: Python, FastAPI, Airflow, Selenium, MySQL, Redis, Docker
 * **주요 성과**:
   * 브라우저 프로세스 관리 최적화로 크롤링 서버 다운 장애 원천 차단 (가동률 100%)
