@@ -1,12 +1,3 @@
-<h2 align="center">👋 안녕하세요, 개발자 노민경입니다.</h2>
-<p align="center">
-  개발만 하는 것이 아니라 왜 이렇게 동작하는지 원리를 파악하고,<br>
-  다양한 기술을 활용해 사용자의 불편함을 편리하게 해결하는 것을 좋아합니다.
-</p>
-
-<div align="center">
-
-
 <a href="https://editor0124.tistory.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Tech_Blog-EB4747?style=for-the-badge&logo=tistory&logoColor=white"></a>
 <a href="https://receipt-front.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Receipt_Service-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="mailto:banggujoong@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
