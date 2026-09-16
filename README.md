@@ -1,4 +1,4 @@
-<h2 align="center">👋 안녕하세요, 백엔드 개발자 노민경입니다.</h2>
+<h2 align="center">👋 안녕하세요, 개발자 노민경입니다.</h2>
 <p align="center"><b>비효율을 줄여 사용자 경험을 극대화하는 개발자</b>를 지향합니다.<br>새로운 기술을 배우고 적용하는 도전을 즐기며, 더 나은 결과물을 위해 끊임없이 고민하고 소통합니다.</p>
 
 <div align="center">
@@ -19,7 +19,7 @@
 
 ## <span style="color: #e34c26;"> Tech Stack</span>
 
-* **Language & Framework**: Java, Spring Boot, Spring Data JPA, Python, FastAPI
+* **Language & Framework**: Java, Spring Boot, Spring Data JPA, Python, FastAPI ,React, Vue
 * **AI & Messaging**: Google Vertex AI, Gemini, Apache Kafka
 * **Data Pipeline & Infra**: Apache Airflow, Selenium, Chromium, Docker, Linux
 * **Database & Cache**: PostgreSQL, MySQL, Oracle, Redis (Byte Caching)
