@@ -29,16 +29,16 @@
 
 ## <span style="color: #2ea44f;"> Key Impacts (핵심 성과 요약)</span>
 
-* **대규모 분산 데이터 수집 파이프라인**: 192만 건 DB 조회 속도 <span style="color: #d73a49; font-weight: bold;">0.598초 단축 (78% 향상)</span>, 크롤링 서버 가동률 **100% 달성**, WAF IP 차단 **100% 우회**
+* **데이터 수집 파이프라인**: 192만 건 DB 조회 속도 <span style="color: #d73a49; font-weight: bold;">0.598초 단축 (78% 향상)</span>, 크롤링 서버 가동률 **100% 달성**, WAF IP 차단 **100% 우회**
 * **LLM 기반 회계 자동화 시스템**: 대용량 PDF 문서 슬라이딩 윈도우 도입으로 문맥 손실 방지, 지수 백오프 적용을 통한 Gemini API <span style="color: #d73a49; font-weight: bold;">429 Rate Limit 장애율 0%</span> 달성
 * **이커머스 이미지 처리 SaaS**: Redis 바이너리 직접 캐싱(Byte Caching)으로 이미지 조회 응답 속도 <span style="color: #d73a49; font-weight: bold;">8ms 달성 (96% 단축)</span>, 스토리지 I/O <span style="color: #d73a49; font-weight: bold;">80% 절감</span>
 
 
 ## <span style="color: #6f42c1;"> Major Projects</span>
 
-### 01. 대규모 분산 데이터 수집 및 고가용성 서빙 파이프라인
+### 01. 데이터 수집 및 고가용성 서빙 파이프라인
 
-> **웹 데이터를 안정적으로 수집·스케줄링하고 대용량 DB로 조회 관리하는 분산 파이프라인 시스템**
+> **웹 데이터를 안정적으로 수집·스케줄링하고 대용량 DB로 조회 관리 시스템**
 
 * **기술 스택**: Python, FastAPI, Apache Airflow, Chromium, Selenium, MySQL, Redis, Docker, GOST Proxy
 * **주요 트러블슈팅 및 성과**:
